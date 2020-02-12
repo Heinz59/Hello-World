@@ -1,2 +1,4 @@
 # Hello-World
-My repositiory from the tutorial
+
+Leider kam ich mit dem ersten Versuch nicht klar.
+Also auf ein neues
